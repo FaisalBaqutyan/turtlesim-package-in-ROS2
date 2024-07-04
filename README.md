@@ -13,7 +13,7 @@ next we can run the turtlesim easily by copying this code and paste it in the te
 ```
 ros2 run turtlesim turtlesim_node
 ```
-as we can see the picture turtlesim is working 
+as we can see in the picture turtlesim is working 
 
 ![Screenshot from 2024-07-04 15-28-19](https://github.com/FaisalBaqutyan/ROS2-humble-installation/assets/174335196/9f1acdf1-3256-422a-818a-cd169f13c2c4)
 
